@@ -1,13 +1,15 @@
-﻿#시각장애인을 위한 AutoIt3 메뉴얼
+﻿# 시각장애인을 위한 AutoIt3 메뉴얼
+
 AutoIt 3.3.14.2  
+
 [AutoIt 3 홈페이지](http://www.autoitscript.com)
 
-##AutoIt 개요
+## AutoIt 개요
 
--[AutoIt를 소개합니다(/1-outline/01-intro.md)
--라이센스
--설치하기
--자주하는 질문(FAQ)
+- [AutoIt를 소개합니다(/1-outline/01-intro.md)
+- 라이센스
+- 설치하기
+- 자주하는 질문(FAQ)
 
 ##AutoIt 사용하기
 
