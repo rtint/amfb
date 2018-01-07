@@ -4,16 +4,16 @@ AutoIt 3.3.14.2
 
 [AutoIt 3 홈페이지](http://www.autoitscript.com)
 
-## AutoIt 개요
+## 개요
 
 - [AutoIt를 소개합니다](/1-outline/01-intro.md)
 - 라이센스
-- 설치하기
+- [설치하기](/1-outline/03-install.md)
 - 자주하는 질문(FAQ)
 
 ## AutoIt 사용하기
 
-- AutoIt로 할 수 있는 일
+- [AutoIt로 할 수 있는 일](2-using/01-intend.md)
 - 스크립트 실행하기
 - 파일 이름과 경로
 - 명령행 옵션
