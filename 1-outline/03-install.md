@@ -50,7 +50,7 @@ AutoIt3에는 AutoIt SciTE 전용 코드 편집기가 있습니다. SciTE를 사
 
 아래 링크에서 한글화 환경 설정 파일을 내려 받으세요.
 
-[메뉴 한글화 환경설정 파일 내려받기](SciTE_Korean.zip)
+[메뉴 한글화 환경설정 파일 내려받기](https://raw.githubusercontent.com/rtint/amfb/master/1-outline/SciTE_Korean.zip)
 
 내려받은 파일의 압축을 해제합니다. 그러면 두 개으ㅟ 파일이 나올 것입니다.
 
@@ -130,4 +130,4 @@ C:\Program Files (x86)\AutoIt3
 - .au3 파일을 실행하기 위해서는 단지 AutoIt3.exe 파일이 필요합니다. .exe로 컴파일된 프로그램은 AutoIt3.exe 파일 조차 필요하지 않습니다. 
 - 영문 메뉴얼의 Registry Keys 부분은 생략합니다.
 
-[처음으로](../readme.md) | [이전으로](02-license.md) | [다음으로](../2-using/01-intend.md)
+[처음으로](../readme.md) | [이전으로](02-license.md) | [다음으로](04-faq.md)
