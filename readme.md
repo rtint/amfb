@@ -13,8 +13,7 @@ AutoIt 3.3.14.2
 
 ## AutoIt 사용하기
 
-- [AutoIt로 할 수 있는 일](2-using/01-intend.md)
-- 스크립트 실행하기
+- [스크립트 실행하기](2-using/01-runScripts.md)
 - 파일 이름과 경로
 - 명령행 옵션
 - 스크립트 편집기
