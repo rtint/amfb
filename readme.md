@@ -9,11 +9,11 @@ AutoIt 3.3.14.2
 - [AutoIt를 소개합니다](/1-outline/01-intro.md)
 - 라이센스
 - [설치하기](/1-outline/03-install.md)
-- 자주하는 질문(FAQ)
+- [자주하는 질문(FAQ)](1-outline/04-faq.md)
 
 ## AutoIt 사용하기
 
-- [스크립트 실행하기](2-using/01-runScripts.md)
+- [스크립트 실행하기](2-using/01-runningScripts.md)
 - 파일 이름과 경로
 - 명령행 옵션
 - 스크립트 편집기
